@@ -1,0 +1,180 @@
+/*
+ * === General ===
+ */
+
+body {
+	text-align: center;
+	font-family: arial;
+	background-color: #eee9e1;
+}
+
+header {
+    background-color: transparent;
+    flex: 1;
+    max-width: 100%;
+    min-height: 0%;
+    min-width: 0%;
+    padding: 2% 2%;
+}
+
+section {
+    padding: 2% 2%;
+    text-align: justify;
+}
+
+#subtitle {
+	font-weight: 500;
+	font-style: italic;
+}
+
+#berrypilefooter {
+	text-align: center;
+}
+
+#amenities, #attractions {
+	background: #C3C8B3;
+	border-radius: 20px;
+	padding: 20px 40px;
+	box-shadow: 2px 2px 2px black;
+}
+
+#buttons {
+	background: #C3C8B3;
+	border-radius: 4px;
+	padding: 8px;
+	box-shadow: 2px 2px 2px black;
+}
+
+.strongtitle {
+	font-size: 1.5em;
+	font-weight: 900;
+	text-shadow: 1px 1px #C3C8B3;
+}
+
+.full {
+	display: flex;
+	width: 100%;
+	vertical-align: top;
+}
+
+.left, .right {
+	width: 50%;
+	height: auto;
+	padding: 40px 20px;
+}
+
+.leftalign, #intro {
+	text-align: left;
+}
+
+/*
+* === Image Properties ===
+*/
+
+#berrypile {
+	height: 53px;
+	width: 161px;
+}
+
+#cottage {
+	border-radius: 20px;
+	width: 466px;
+	height: 657px;
+	text-align: left;
+	display: inline-block;
+}
+
+#logo {
+	height: 49px;
+	width: 504px;
+}
+
+/*
+ * === Image Slider ===
+ */
+
+.slider {
+	max-width: 50%;
+	margin: 0px auto 30px auto;
+}
+
+.slide-viewer {
+	position: relative;
+	overflow: hidden;
+	height: 800px;
+}
+
+.slide-group {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.slide {
+	width: 100%;
+	height: 100%;
+	display: none;
+	position: absolute;
+}
+
+.slide:first-child {
+	display: block;
+}
+
+.slide-buttons {
+	text-align: center;
+}
+
+.slide-btn {
+	border: none;
+	background: none;
+	color: #000;
+	font-size: 240%;
+	line-height: 0.5em;
+}
+
+.slide-btn.active, .slide-btn:hover {
+	color: #93A26D;
+	cursor: pointer;
+}
+
+/*
+ * === Nav Bar ===
+ */
+
+nav {
+	height: auto;
+	margin: 2px;
+	width: 100%;
+	display: inline-block;
+}
+
+nav ul {
+	background: #93A26D;
+	border-radius: 40px;
+	box-shadow: 5px 5px 5px black;
+	color: black;
+	font-weight: 900;
+	position: relative;
+	display: inline-block;
+}
+
+nav ul li {
+	margin: 10px;
+	padding: 2px;
+	display: inline-block;
+}
+
+nav ul li a {
+	color: black;
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+	text-shadow: 1px 1px #C3C8B3;
+}
+
+nav ul li:hover a {
+	color: #33502B;
+	text-decoration: none;
+	text-shadow: 1px 1px #C3C8B3;
+}
