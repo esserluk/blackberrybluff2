@@ -9,17 +9,17 @@ body {
 }
 
 header {
-    background-color: transparent;
-    flex: 1;
-    max-width: 100%;
-    min-height: 0%;
-    min-width: 0%;
-    padding: 2% 2%;
+	background-color: transparent;
+	flex: 1;
+	max-width: 100%;
+	min-height: 0%;
+	min-width: 0%;
+	padding: 2% 2%;
 }
 
 section {
-    padding: 2% 2%;
-    text-align: justify;
+	padding: 2% 2%;
+	text-align: justify;
 }
 
 #subtitle {
@@ -27,21 +27,15 @@ section {
 	font-style: italic;
 }
 
-#berrypilefooter {
-	text-align: center;
+#copyright {
+	font-style: italic;
+	font-size: 0.8em;
 }
 
 #amenities, #attractions {
 	background: #C3C8B3;
 	border-radius: 20px;
 	padding: 20px 40px;
-	box-shadow: 2px 2px 2px black;
-}
-
-#buttons {
-	background: #C3C8B3;
-	border-radius: 4px;
-	padding: 8px;
 	box-shadow: 2px 2px 2px black;
 }
 
@@ -124,6 +118,13 @@ section {
 .phototitle {
 	font-weight: 900;
 	text-shadow: 1px 1px #C3C8B3;
+}
+
+#buttons {
+	background: #C3C8B3;
+	border-radius: 4px;
+	padding: 8px;
+	box-shadow: 2px 2px 2px black;
 }
 
 .slide-buttons {
