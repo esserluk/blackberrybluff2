@@ -121,6 +121,11 @@ section {
 	display: block;
 }
 
+.phototitle {
+	font-weight: 900;
+	text-shadow: 1px 1px #C3C8B3;
+}
+
 .slide-buttons {
 	text-align: center;
 }
