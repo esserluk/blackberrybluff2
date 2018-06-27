@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<photos>
+	<img>
+		<title>Green Lake</title>
+		<alt>GreenLake</alt>
+		<src>media/GreenLake.jpg</src>
+	</img>
+	<img>
+		<title>Dock</title>
+		<alt>dock</alt>
+		<src>media/dock.jpg</src>
+	</img>
+	<img>
+		<title>Swim Steps and Bench</title>
+		<alt>swimsteps</alt>
+		<src>media/swimsteps.jpg</src>
+	</img>
+	<img>
+		<title>Still Water in the Morning</title>
+		<alt>still</alt>
+		<src>media/still.jpg</src>
+	</img>
+	<img>
+		<title>Waterfront - summertime</title>
+		<alt>Waterfront</alt>
+		<src>media/Waterfront.jpg</src>
+	</img>
+	<img>
+		<title>Waterfront - springtime</title>
+		<alt>waterspring</alt>
+		<src>media/waterspring.jpg</src>
+	</img>
+	<img>
+		<title>Firepit</title>
+		<alt>seating</alt>
+		<src>media/seating.jpg</src>
+	</img>
+	<img>
+		<title>The Bluff</title>
+		<alt>bluff</alt>
+		<src>media/bluff.jpg</src>
+	</img>
+	<img>
+		<title>Great Room</title>
+		<alt>GreatRoom</alt>
+		<src>media/GreatRoom.jpg</src>
+	</img>
+	<img>
+		<title>Kitchen</title>
+		<alt>Kitchen</alt>
+		<src>media/Kitchen.jpg</src>
+	</img>
+	<img>
+		<title>View from Loft</title>
+		<alt>ViewFromLoft</alt>
+		<src>media/ViewFromLoft.jpg</src>
+	</img>
+	<img>
+		<title>Stairway to Loft</title>
+		<alt>Stairway</alt>
+		<src>media/Stairway.jpg</src>
+	</img>
+	<img>
+		<title>Bedroom #1</title>
+		<alt>BR1</alt>
+		<src>media/BR1.jpg</src>
+	</img>
+	<img>
+		<title>Bedroom #2</title>
+		<alt>BR213</alt>
+		<src>media/BR213.jpg</src>
+	</img>
+	<img>
+		<title>Bedroom #3 (Loft - view 1)</title>
+		<alt>Loft1R</alt>
+		<src>media/Loft1R.jpg</src>
+	</img>
+	<img>
+		<title>Bedroom #3 (Loft - view 2)</title>
+		<alt>Loft2R</alt>
+		<src>media/Loft2R.jpg</src>
+	</img>
+	<img>
+		<title>Bedroom #3 (Loft - view 3)</title>
+		<alt>Loft3R</alt>
+		<src>media/Loft3R.jpg</src>
+	</img>
+	<img>
+		<title>Loft Sitting Area</title>
+		<alt>sitting</alt>
+		<src>media/sitting.jpg</src>
+	</img>
+	<img>
+		<title>Patio - view 1</title>
+		<alt>patio1</alt>
+		<src>media/patio1.jpg</src>
+	</img>
+	<img>
+		<title>Patio - view 2</title>
+		<alt>patio2</alt>
+		<src>media/patio2.jpg</src>
+	</img>
+	<img>
+		<title>Outdoor Shower</title>
+		<alt>shower</alt>
+		<src>media/shower.jpg</src>
+	</img>
+	<img>
+		<title>View from Kitchen</title>
+		<alt>ViewK</alt>
+		<src>media/ViewK.jpg</src>
+	</img>
+	<img>
+		<title>Lake View</title>
+		<alt>lakeview</alt>
+		<src>media/lakeview.jpg</src>
+	</img>
+	<img>
+		<title>Covered Porch</title>
+		<alt>porch</alt>
+		<src>media/porch.jpg</src>
+	</img>
+	<img>
+		<title>Mudroom</title>
+		<alt>mudroom</alt>
+		<src>media/mudroom.jpg</src>
+	</img>
+	<img>
+		<title>Main Bathroom</title>
+		<alt>mainbath</alt>
+		<src>media/mainbath.jpg</src>
+	</img>
+	<img>
+		<title>Loft Bath - view 1</title>
+		<alt>loftbath1</alt>
+		<src>media/loftbath1.jpg</src>
+	</img>
+	<img>
+		<title>Loft Bath - view 2</title>
+		<alt>loftbath2</alt>
+		<src>media/loftbath2.jpg</src>
+	</img>
+</photos>

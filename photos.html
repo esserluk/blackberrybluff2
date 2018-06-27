@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="style.css" />
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 		<script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+		<script src="js/slider.js"></script>
 	</head>
 	<body>
 		<header>
@@ -22,126 +23,8 @@
 		</header>
 		<div class="slider">
 			<div class="strongtitle">Photos</div>
-			<br>
 			<div id="buttons" class="slide-buttons"></div>
-			<br>
-			<div id="slide-viewer" class="slide-viewer">
-				<div class="slide-group">
-					<div class="slide slide-1">
-						<p class="phototitle">Green Lake</p>
-						<img alt="GreenLake" src="media/GreenLake.jpg">
-					</div>
-					<div class="slide slide-2">
-						<p class="phototitle">Dock</p>
-						<img alt="dock" src="media/dock.jpg">
-					</div>
-					<div class="slide slide-3">
-						<p class="phototitle">Swim Steps and Bench</p>
-						<img alt="swimsteps" src="media/swimsteps.jpg">
-					</div>
-					<div class="slide slide-4">
-						<p class="phototitle">Still Water in the Morning</p>
-						<img alt="still" src="media/still.jpg">
-					</div>
-					<div class="slide slide-5">
-						<p class="phototitle">Waterfront - summertime</p>
-						<img alt="Waterfront" src="media/Waterfront.jpg">
-					</div>
-					<div class="slide slide-6">
-						<p class="phototitle">Waterfront - springtime</p>
-						<img alt="waterspring" src="media/waterspring.jpg">
-					</div>
-					<div class="slide slide-7">
-						<p class="phototitle">Firepit</p>
-						<img alt="seating" src="media/seating.jpg">
-					</div>
-					<div class="slide slide-8">
-						<p class="phototitle">The Bluff</p>
-						<img alt="bluff" src="media/bluff.jpg">
-					</div>
-					<div class="slide slide-9">
-						<p class="phototitle">Great Room</p>
-						<img alt="GreatRoom" src="media/GreatRoom.jpg">
-					</div>
-					<div class="slide slide-10">
-						<p class="phototitle">Kitchen</p>
-						<img alt="Kitchen" src="media/Kitchen.jpg">
-					</div>
-					<div class="slide slide-11">
-						<p class="phototitle">View from Loft</p>
-						<img alt="ViewFromLoft" src="media/ViewFromLoft.jpg">
-					</div>
-					<div class="slide slide-12">
-						<p class="phototitle">Stairway to Loft</p>
-						<img alt="Stairway" src="media/Stairway.jpg">
-					</div>
-					<div class="slide slide-13">
-						<p class="phototitle">Bedroom #1</p>
-						<img alt="BR1" src="media/BR1.jpg">
-					</div>
-					<div class="slide slide-14">
-						<p class="phototitle">Bedroom #2</p>
-						<img alt="BR213" src="media/BR213.jpg">
-					</div>
-					<div class="slide slide-15">
-						<p class="phototitle">Bedroom #3 (Loft - view 1)</p>
-						<img alt="Loft1R" src="media/Loft1R.jpg">
-					</div>
-					<div class="slide slide-16">
-						<p class="phototitle">Bedroom #3 (Loft - view 2)</p>
-						<img alt="Loft2R" src="media/Loft2R.jpg">
-					</div>
-					<div class="slide slide-17">
-						<p class="phototitle">Bedroom #3 (Loft - view 3)</p>
-						<img alt="Loft3R" src="media/Loft3R.jpg">
-					</div>
-					<div class="slide slide-18">
-						<p class="phototitle">Loft Sitting Area</p>
-						<img alt="sitting" src="media/sitting.jpg">
-					</div>
-					<div class="slide slide-19">
-						<p class="phototitle">Patio - view 1</p>
-						<img alt="patio1" src="media/patio1.jpg">
-					</div>
-					<div class="slide slide-20">
-						<p class="phototitle">Patio - view 2</p>
-						<img alt="patio2" src="media/patio2.jpg">
-					</div>
-					<div class="slide slide-21">
-						<p class="phototitle">Outdoor Shower</p>
-						<img alt="shower" src="media/shower.jpg">
-					</div>
-					<div class="slide slide-22">
-						<p class="phototitle">View from Kitchen</p>
-						<img alt="ViewK" src="media/ViewK.jpg">
-					</div>
-					<div class="slide slide-23">
-						<p class="phototitle">Lake View</p>
-						<img alt="lakeview" src="media/lakeview.jpg">
-					</div>
-					<div class="slide slide-24">
-						<p class="phototitle">Covered Porch</p>
-						<img alt="porch" src="media/porch.jpg">
-					</div>
-					<div class="slide slide-25">
-						<p class="phototitle">Mudroom</p>
-						<img alt="mudroom" src="media/mudroom.jpg">
-					</div>
-					<div class="slide slide-26">
-						<p class="phototitle">Main Bathroom</p>
-						<img alt="mainbath" src="media/mainbath.jpg">
-					</div>
-					<div class="slide slide-27">
-						<p class="phototitle">Loft Bath - view 1</p>
-						<img alt="loftbath1" src="media/loftbath1.jpg">
-					</div>
-					<div class="slide slide-28">
-						<p class="phototitle">Loft Bath - view 2</p>
-						<img alt="loftbath2" src="media/loftbath2.jpg">
-					</div>
-				</div>
-			</div>
+			<div id="slide-viewer" class="slide-viewer"></div>
 		</div>
-		<script src="js/slider.js"></script>
 	</body>
 </html>
